@@ -1,18 +1,14 @@
 # Mobile-menu-icom-animation
-
-
-# Ping-Pong
-The game was created on the base of the original game of the same title.
+Mobile-menu-icom-animation
 
 ## Setup
-Clone repo or click to [link](https://lukaskmiecik.github.io/Ping-Pong/) to open webside
+Clone repo or click to [link](https://lukaskmiecik.github.io/Mobile-menu-icom-animation/) to open webside
 
 ## Languages:
 + HTML
 + Css
 + Scss
 + JavaScript
-+ Canvas
 
 ## Usage 
 After you clone this repo to your desktop, go to its root directory and run `index.html`.
@@ -20,7 +16,7 @@ This files open yours web browser.<br>
 Or:
 
 ## Demo
-Click to [link](https://lukaskmiecik.github.io/Ping-Pong/) to open demo in webside
+Click to [link](https://lukaskmiecik.github.io/Mobile-menu-icom-animation/) to open demo in webside
 
 ## Autor
 [@LukasKmiecik](https://github.com/LukasKmiecik)
